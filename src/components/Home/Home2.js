@@ -21,16 +21,16 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br /> Likable and dedicated Full-stack web-developer using 
+              <br /> Likable and dedicated Full-stack web-developer using
               <i>
-                <b className="purple">  Javascript and HTML. </b>
+                <b className="purple">  JavaScript, html, CSS, and NodeJS </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              . Eager to offer superb  &nbsp;
               <i>
-                <b className="purple">Web </b> and
-                I am working for to grow its client base and increase customer satisfaction in the {" "}
+                <b className="purple">coding and computer skills  </b> and
+                to help the organization I am working for to grow its client base and increase customer satisfaction in the {" "}
                 <b className="purple">
                 IT industry.
                 </b>
