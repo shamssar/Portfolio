@@ -23,7 +23,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="My Store"
-              description="A web application power a mock online storefront that will allow our users to browse our product offerings by category, place items in their shopping cart, and check-out when they are ready to make their purchase"
+              description="A web application power a mock online storefront that will allow our users to browse our product offerings etc.."
               ghLink="https://github.com/shamssar/storefront"
               demoLink="https://incomparable-mousse-c6f709.netlify.app/"
             />
@@ -33,10 +33,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="ToDo"
-              description="A web application for securely managing a To Do List."
-              ghLink="https://github.com/shamssar/todo-app"
-              demoLink="https://chimerical-boba-d62836.netlify.app/"
+              title= "calculator"
+              description="simple calculator in React that handles input changes,user interaction, and complex calculations."
+              ghLink=""
+              demoLink="https://628beb08bd4a151493af60ab--fantastic-cascaron-ca7b43.netlify.app/"
             />
           </Col>
 
@@ -44,10 +44,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="calculator"
-              description="simple calculator"
-              ghLink=""
-              demoLink="https://628beb08bd4a151493af60ab--fantastic-cascaron-ca7b43.netlify.app/"              
+              title="ToDo"
+              description="A web application for securely managing a To Do List ysing React "
+              ghLink="https://github.com/shamssar/todo-app"
+              demoLink="https://chimerical-boba-d62836.netlify.app/"               
             />
           </Col>
 
